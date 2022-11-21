@@ -14,7 +14,7 @@ imantics
 simplification
 pyqt5
 h5py
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.9.3
 cudnn==10.0.1
 cudatoolkits==7.6.5
 pandas
